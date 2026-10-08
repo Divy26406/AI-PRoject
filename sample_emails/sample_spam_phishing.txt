@@ -1,0 +1,12 @@
+Subject: Security Alert: Your Account Access Has Been Suspended
+
+Attention Customer,
+
+We detected unusual login activity on your online account. For your protection, your access has been temporarily blocked.
+
+Please verify your credentials immediately to avoid permanent account termination. Click the secure link below to verify your password and credit card information:
+https://secure-verification-portal.net/login
+
+Failure to verify within 12 hours will lead to complete suspension of service.
+
+Security Team

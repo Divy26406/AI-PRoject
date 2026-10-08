@@ -1,0 +1,14 @@
+Subject: Machine Learning Project Submission Guidelines
+
+Dear Students,
+
+Please review the final guidelines for the Machine Learning and NLP term project.
+
+All groups must submit their completed codebase along with the technical report by Friday at 5:00 PM through the university portal. Make sure your repository contains instructions on how to install requirements and execute the training script.
+
+The oral presentations will take place next Monday starting at 9:00 AM. Each group will have 10 minutes for demonstration followed by Q&A.
+
+Best wishes for your submissions.
+
+Dr. Anderson
+Department of Computer Science
